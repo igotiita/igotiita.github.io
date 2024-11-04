@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://igotiita.github.io/DfU/sitemap_index.txt
+Sitemap: https://igotiita.github.io/LGS/sitemap_index.txt
+Sitemap: https://igotiita.github.io/Rqf/sitemap_index.txt
+Sitemap: https://igotiita.github.io/nEF/sitemap_index.txt
